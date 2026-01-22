@@ -46,10 +46,10 @@
 					<span class="text-xl font-bold text-gray-900">Neuversity</span>
 				</div>
 				<div class="hidden md:flex space-x-8">
-					<a href="#" class="text-gray-700 hover:text-blue-600 transition">Beranda</a>
-					<a href="#" class="text-gray-700 hover:text-blue-600 transition">Program</a>
-					<a href="#" class="text-gray-700 hover:text-blue-600 transition">Tentang</a>
-					<a href="#" class="text-gray-700 hover:text-blue-600 transition">Kontak</a>
+					<a href="" class="text-gray-700 hover:text-blue-600 transition">Beranda</a>
+					<a href="/blog" class="text-gray-700 hover:text-blue-600 transition">Blog</a>
+					<a href="/about" class="text-gray-700 hover:text-blue-600 transition">Tentang</a>
+					<a href="/contact" class="text-gray-700 hover:text-blue-600 transition">Kontak</a>
 				</div>
 				<button class="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition">
 					Daftar Sekarang
